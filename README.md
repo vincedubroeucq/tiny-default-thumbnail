@@ -1,0 +1,1 @@
+# tiny-default-thumbnail
